@@ -1,1 +1,1 @@
-const test = {abc: 123}
+const test = {}
